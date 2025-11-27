@@ -30,3 +30,9 @@ Este é um chatbot simples em Python que responde perguntas sobre aprender Pytho
 - Para sair, selecione 5.
 
 ## Exemplo de Uso
+
+## Contribuições
+Sinta-se à vontade para abrir issues ou pull requests para melhorias!
+
+## Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
