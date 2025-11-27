@@ -30,6 +30,7 @@ Este é um chatbot simples em Python que responde perguntas sobre aprender Pytho
 - Para sair, selecione 5.
 
 ## Exemplo de Uso
+Execute o script e interaja com o menu. Aqui vai um exemplo de sessão:
 
 ## Contribuições
 Sinta-se à vontade para abrir issues ou pull requests para melhorias!
